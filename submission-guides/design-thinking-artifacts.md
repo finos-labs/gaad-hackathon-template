@@ -38,7 +38,7 @@ The following resources provide a bootstrap for participating hackers.
 
 | Description | Template |
 | --- | --- |
-| Design Thinking Mural Board Template | [Mural Template]() |
+| Design Thinking Mural Board Template | [Mural Template](https://app.mural.co/template/a34cb087-9954-487a-810f-65671664f59d/97429e07-5ba1-47e9-91d3-98e668e51d42) |
 | Use Case Story | [Story template](/challenges/challenge1/usecase/story-template.md) |
 | Design Thinking Playback Template | [PowerPoint Template](/challenges/common/presentations/gaad-hackathon-playback-template.pptx) |
 
@@ -53,7 +53,7 @@ Upon successful completion of this guide, the following hackathon checklist requ
 
 ## Design Thinking Recipe Instructions
 ### Design Thinking Recipe
-[Link to template](). Instructions for how to copy this template can be found [here](/submission-guides/mural/mural-instructions.md)
+[Link to template](https://app.mural.co/template/a34cb087-9954-487a-810f-65671664f59d/97429e07-5ba1-47e9-91d3-98e668e51d42). Instructions for how to copy this template can be found [here](/submission-guides/mural/mural-instructions.md)
 
 The Design Thinking Recipe is broken down into 2 phases:
 
